@@ -1,0 +1,8 @@
+C:\Users\grgic\source\repos\ProgText\ProgText\bin\Debug\ProgText.exe.config
+C:\Users\grgic\source\repos\ProgText\ProgText\bin\Debug\ProgText.exe
+C:\Users\grgic\source\repos\ProgText\ProgText\bin\Debug\ProgText.pdb
+C:\Users\grgic\source\repos\ProgText\ProgText\obj\Debug\ProgText.csproj.AssemblyReference.cache
+C:\Users\grgic\source\repos\ProgText\ProgText\obj\Debug\ProgText.csproj.SuggestedBindingRedirects.cache
+C:\Users\grgic\source\repos\ProgText\ProgText\obj\Debug\ProgText.csproj.CoreCompileInputs.cache
+C:\Users\grgic\source\repos\ProgText\ProgText\obj\Debug\ProgText.exe
+C:\Users\grgic\source\repos\ProgText\ProgText\obj\Debug\ProgText.pdb
